@@ -5,8 +5,8 @@
 ### Images
 
 List all images.
-```
-docker images
+```console
+foo@bar:~$ docker images
 ```
 
 Download image.
